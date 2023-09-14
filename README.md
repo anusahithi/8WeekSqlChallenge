@@ -9,7 +9,7 @@
 ## Case Study #1: Danny's Diner 
 <img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
 
-View the [**case study**](https://8weeksqlchallenge.com/case-study-1/) and my [**solution**](https://github.com/YogeshOlla/8-Weeks-SQL-Challenge/blob/main/Case%20Study%201%20-%20Danny's%20Diner/SQL%20Code/Case%20Study%201%20-%20Danny's%20Diner.sql) 
+View the [**case study**](https://8weeksqlchallenge.com/case-study-1/) and my [**solution**](https://github.com/anusahithi/8WeekSqlChallenge/blob/7adb9a2e2d712bee2cd410496c435c987b5e3a23/Case1/DannyDiner.py) 
 
 <details>
 <summary>

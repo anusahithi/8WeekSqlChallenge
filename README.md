@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
+- [Case Study #2: Danny's Diner](#case-study-1-pizza-runner)
 ***
 
 ## Case Study #1: Danny's Diner 

@@ -4,10 +4,7 @@
 View the [**case study**](https://8weeksqlchallenge.com/case-study-1/) and my [**solution**](https://github.com/anusahithi/8WeekSqlChallenge/blob/7adb9a2e2d712bee2cd410496c435c987b5e3a23/Case1/DannyDiner.py) 
 
 <details>
-<summary>
-Click here to expand!
-</summary>
-
+    
 ### Business Task:
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. 
 

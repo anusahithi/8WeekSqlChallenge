@@ -2,8 +2,6 @@
 <img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
 
 View the [**case study**](https://8weeksqlchallenge.com/case-study-1/) and my [**solution**](https://github.com/anusahithi/8WeekSqlChallenge/blob/7adb9a2e2d712bee2cd410496c435c987b5e3a23/Case1/DannyDiner.py) 
-
-<details>
     
 ### Business Task:
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. 
@@ -25,7 +23,5 @@ Danny wants to use the data to answer a few simple questions about his customers
 9.  If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, 
     not just sushi - how many points do customer A and B have at the end of January?
-
-</details>
 
 ***
